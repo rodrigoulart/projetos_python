@@ -1,0 +1,92 @@
+<clientes>
+    <cliente>
+        <nome>André Fonseca</nome>
+        <data_nascimento>1987-03-14</data_nascimento>
+        <cpf>66666666666</cpf>
+        <cartao>5111111111111111</cartao>
+        <tipo_conta>Corrente</tipo_conta>
+        <saldo>4200.50</saldo>
+        <data_abertura>2012-08-01</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Bianca Rangel</nome>
+        <data_nascimento>1991-11-22</data_nascimento>
+        <cpf>77777777777</cpf>
+        <cartao>5222222222222222</cartao>
+        <tipo_conta>Poupança</tipo_conta>
+        <saldo>1800.00</saldo>
+        <data_abertura>2016-04-12</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Caio Moreira</nome>
+        <data_nascimento>1989-06-09</data_nascimento>
+        <cpf>88888888888</cpf>
+        <cartao>5333333333333333</cartao>
+        <tipo_conta>Corrente</tipo_conta>
+        <saldo>7600.90</saldo>
+        <data_abertura>2011-09-30</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Daniela Cruz</nome>
+        <data_nascimento>1994-02-18</data_nascimento>
+        <cpf>99999999999</cpf>
+        <cartao>5444444444444444</cartao>
+        <tipo_conta>Poupança</tipo_conta>
+        <saldo>950.00</saldo>
+        <data_abertura>2020-01-20</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Eduardo Pinto</nome>
+        <data_nascimento>1982-12-01</data_nascimento>
+        <cpf>12121212121</cpf>
+        <cartao>5555555555555555</cartao>
+        <tipo_conta>Corrente</tipo_conta>
+        <saldo>13400.00</saldo>
+        <data_abertura>2007-06-06</data_abertura>
+    </cliente>
+    <cliente>
+        <nome></nome>
+        <data_nascimento>1990-05-05</data_nascimento>
+        <cpf>13131313131</cpf>
+        <cartao>5666666666666666</cartao>
+        <tipo_conta>Corrente</tipo_conta>
+        <saldo>2200.00</saldo>
+        <data_abertura>2018-08-08</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Fabiana Lemos</nome>
+        <data_nascimento>1999-99-99</data_nascimento>
+        <cpf>14141414141</cpf>
+        <cartao>5777777777777777</cartao>
+        <tipo_conta>Poupança</tipo_conta>
+        <saldo>500.00</saldo>
+        <data_abertura>2022-02-02</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Gustavo Neri</nome>
+        <data_nascimento>1986-01-19</data_nascimento>
+        <cpf></cpf>
+        <cartao>5888888888888888</cartao>
+        <tipo_conta>Corrente</tipo_conta>
+        <saldo>6100.00</saldo>
+        <data_abertura>2013-03-03</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Helena Duarte</nome>
+        <data_nascimento>1992-07-07</data_nascimento>
+        <cpf>15151515151</cpf>
+        <cartao>123</cartao>
+        <tipo_conta>Poupança</tipo_conta>
+        <saldo>1800.00</saldo>
+        <data_abertura>2019-09-09</data_abertura>
+    </cliente>
+    <cliente>
+        <nome>Igor Valente</nome>
+        <data_nascimento>1985-04-04</data_nascimento>
+        <cpf>16161616161</cpf>
+        <cartao>5999999999999999</cartao>
+        <tipo_conta>Corrente</tipo_conta>
+        <saldo>-100.00</saldo>
+        <data_abertura>2010-10-10</data_abertura>
+    </cliente>
+</clientes>

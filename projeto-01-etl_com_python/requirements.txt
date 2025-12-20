@@ -1,0 +1,9 @@
+# ============================
+# Dependências do Projeto ETL
+# ============================
+
+# Manipulação e análise de dados
+pandas>=2.2.0
+
+# Parser XML recomendado para pandas.read_xml
+lxml>=5.1.0
