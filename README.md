@@ -24,3 +24,39 @@ projetos_python/
 │ └── README.md
 └── README.md
 ```
+
+
+> A estrutura pode evoluir conforme novos projetos forem adicionados ao repositório.
+
+---
+
+## Tecnologias Utilizadas
+
+- **Python**: linguagem principal dos projetos
+- **Pandas**: manipulação, limpeza e transformação de dados
+- **NumPy**: operações numéricas e suporte ao processamento de dados
+- **CSV e XML**: formatos de dados utilizados como fontes
+- **ETL**: implementação do fluxo de Extração, Transformação e Carregamento
+- **Git e GitHub**: versionamento e compartilhamento dos projetos
+
+---
+
+## Descrição dos Projetos
+
+### [01 – Explorando IA Generativa em um Pipeline de ETL com Python](.projeto-01-etl_com_python/)
+Projeto focado na construção de um pipeline ETL completo utilizando Python e Pandas.  
+Os dados são extraídos de arquivos CSV e XML com informações bancárias fictícias, passam por processos de limpeza e validação (remoção de dados inconsistentes) e são carregados em um arquivo CSV final, pronto para análise.
+
+Principais conceitos aplicados:
+- Leitura de múltiplas fontes de dados
+- Tratamento de dados sujos
+- Padronização de tipos
+- Boas práticas em ETL
+
+---
+
+## Considerações Finais
+
+Este repositório reflete a evolução prática no aprendizado de **Python aplicado à Ciência de Dados**, com projetos progressivos e orientados a cenários reais.  
+Ele serve tanto como material de estudo quanto como **portfólio para oportunidades na área de dados**.
+
