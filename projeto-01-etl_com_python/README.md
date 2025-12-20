@@ -1,4 +1,4 @@
-# Projeto 01 - Pipeline de ETL com Python
+# Projeto 01 - Explorando IA Generativa em um Pipeline de ETL com Python
 
 ## Descrição
 Projeto baseado em dados fictícios de clientes bancários.  
