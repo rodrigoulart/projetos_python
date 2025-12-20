@@ -35,6 +35,8 @@ projetos_python/
 - **Python**: linguagem principal dos projetos
 - **Pandas**: manipulação, limpeza e transformação de dados
 - **NumPy**: operações numéricas e suporte ao processamento de dados
+- **ChatGPT**: auxílio na geração dos códigos em python
+- **VS Code**: editor de código utilizado no projeto
 - **CSV e XML**: formatos de dados utilizados como fontes
 - **ETL**: implementação do fluxo de Extração, Transformação e Carregamento
 - **Git e GitHub**: versionamento e compartilhamento dos projetos
