@@ -12,16 +12,16 @@ O objetivo principal é consolidar o aprendizado e construir um **portfólio pr�
 ```
 projetos_python/
 ├── projeto-01-etl_com_python/
+│ │ ├── codigo/
+│ │ └── etl_clientes.py
 │ ├── dados/
 │ │ ├── brutos/
 │ │ │ ├── clientes_csv.csv
 │ │ │ └── clientes_xml.xml
 │ │ └── processados/
 │ │ └── clientes_tratados.csv
-│ ├── codigo/
-│ │ └── etl_clientes.py
-│ ├── requirements.txt
-│ └── README.md
+│ ├── README.md
+│ └── requirements.txt
 └── README.md
 ```
 
