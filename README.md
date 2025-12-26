@@ -11,7 +11,7 @@ O objetivo principal é consolidar o aprendizado e construir um **portfólio pr�
 
 ```
 projetos_python/
-├── projeto-01-etl_com_python/
+├── 01-etl_com_python/
 │ │ ├── codigo/
 │ │ └── etl_clientes.py
 │ ├── dados/
@@ -45,7 +45,7 @@ projetos_python/
 
 ## Descrição dos Projetos
 
-### [01 – Explorando IA Generativa em um Pipeline de ETL com Python](.projeto-01-etl_com_python/)
+### [01 – Explorando IA Generativa em um Pipeline de ETL com Python](01-etl_com_python/)
 Projeto focado na construção de um pipeline ETL completo utilizando Python e Pandas.  
 Os dados são extraídos de arquivos CSV e XML com informações bancárias fictícias, passam por processos de limpeza e validação (remoção de dados inconsistentes) e são carregados em um arquivo CSV final, pronto para análise.
 
